@@ -1,0 +1,13 @@
+1505513210647	geckodriver	INFO	geckodriver 0.18.0
+1505513210649	geckodriver	INFO	Listening on 127.0.0.1:46751
+1505513211730	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505513212391	Marionette	INFO	Enabled via --marionette
+1505513214639	Marionette	INFO	Listening on port 43977
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505513214789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505513214821	Marionette	DEBUG	loaded listener.js
+1505513214842	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505513214851	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505513214851	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505513214857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1505513214871	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
