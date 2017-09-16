@@ -346,3 +346,37 @@ JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCK
 1505560335017	Marionette	INFO	New connections will no longer be accepted
 [Child 27126] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Child 27126] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505560867044	geckodriver	INFO	geckodriver 0.18.0
+1505560867047	geckodriver	INFO	Listening on 127.0.0.1:52239
+1505560868128	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505560868812	Marionette	INFO	Enabled via --marionette
+1505560871165	Marionette	INFO	Listening on port 42915
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505560871250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505560871286	Marionette	DEBUG	loaded listener.js
+1505560871305	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505560871314	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505560871314	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505560871318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1505560871330	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1505560872994	Marionette	INFO	New connections will no longer be accepted
+[Child 27462] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27462] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1505560954617	geckodriver	INFO	geckodriver 0.18.0
+1505560954620	geckodriver	INFO	Listening on 127.0.0.1:57283
+1505560955776	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505560956428	Marionette	INFO	Enabled via --marionette
+1505560958586	Marionette	INFO	Listening on port 41357
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505560958725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505560958760	Marionette	DEBUG	loaded listener.js
+1505560958780	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505560958792	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505560958792	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505560958796	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1505560958806	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1505560961830	Marionette	INFO	New connections will no longer be accepted
+[Child 27648] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27648] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27648] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
