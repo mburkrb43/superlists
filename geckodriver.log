@@ -380,3 +380,37 @@ JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCK
 [Child 27648] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Child 27648] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Child 27648] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505647446731	geckodriver	INFO	geckodriver 0.18.0
+1505647446734	geckodriver	INFO	Listening on 127.0.0.1:40449
+1505647447815	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505647448499	Marionette	INFO	Enabled via --marionette
+1505647450931	Marionette	INFO	Listening on port 41955
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505647451032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505647451066	Marionette	DEBUG	loaded listener.js
+1505647451084	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505647451180	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505647451180	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505647451274	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1505647451292	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1505647451316	Marionette	INFO	New connections will no longer be accepted
+[Child 4411] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4411] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4411] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505647676079	geckodriver	INFO	geckodriver 0.18.0
+1505647676081	geckodriver	INFO	Listening on 127.0.0.1:52989
+1505647677219	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505647677906	Marionette	INFO	Enabled via --marionette
+1505647680159	Marionette	INFO	Listening on port 42773
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505647680247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505647680284	Marionette	DEBUG	loaded listener.js
+1505647680306	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505647680318	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505647680319	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505647680327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1505647680336	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1505647683336	Marionette	INFO	New connections will no longer be accepted
+[Child 4652] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4652] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4652] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9jef4m/firefox-55.0.2+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
